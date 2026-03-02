@@ -1,0 +1,1 @@
+hash string -> modulo 20000 -> find place in map -> find first free spot in array
